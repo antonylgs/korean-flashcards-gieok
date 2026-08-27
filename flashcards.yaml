@@ -1,0 +1,2414 @@
+version: 1
+deck:
+  title: Korean Flashcards
+  source_language: en
+  target_language: ko
+categories:
+  - id: action
+    name: Action
+  - id: adjective
+    name: Adjective
+  - id: anatomy
+    name: Anatomy
+  - id: appearance
+    name: Appearance
+  - id: appliance
+    name: Appliance
+  - id: appliances
+    name: Appliances
+  - id: architecture
+    name: Architecture
+  - id: art
+    name: Art
+  - id: assembly
+    name: Assembly
+  - id: behavior
+    name: Behavior
+  - id: beverage
+    name: Beverage
+  - id: body
+    name: Body
+  - id: business
+    name: Business
+  - id: car
+    name: Car
+  - id: celestial
+    name: Celestial
+  - id: change
+    name: Change
+  - id: city
+    name: City
+  - id: colors
+    name: Colors
+  - id: command
+    name: Command
+  - id: communication
+    name: Communication
+  - id: competence
+    name: Competence
+  - id: condition
+    name: Condition
+  - id: connection
+    name: Connection
+  - id: connectors
+    name: Connectors
+  - id: cooking
+    name: Cooking
+  - id: culture
+    name: Culture
+  - id: daily-routine
+    name: Daily Routine
+  - id: decision
+    name: Decision
+  - id: defense
+    name: Defense
+  - id: depth
+    name: Depth
+  - id: description
+    name: Description
+  - id: direction
+    name: Direction
+  - id: driving
+    name: Driving
+  - id: education
+    name: Education
+  - id: emotion
+    name: Emotion
+  - id: emotions
+    name: Emotions
+  - id: event
+    name: Event
+  - id: excuse
+    name: Excuse
+  - id: exercise
+    name: Exercise
+  - id: existence
+    name: Existence
+  - id: family
+    name: Family
+  - id: feeling
+    name: Feeling
+  - id: finance
+    name: Finance
+  - id: food
+    name: Food
+  - id: fortune-telling
+    name: Fortune Telling
+  - id: frequency
+    name: Frequency
+  - id: geography
+    name: Geography
+  - id: grammar
+    name: Grammar
+  - id: health
+    name: Health
+  - id: history
+    name: History
+  - id: home
+    name: Home
+  - id: household
+    name: Household
+  - id: indecision
+    name: Indecision
+  - id: influence
+    name: Influence
+  - id: infrastructure
+    name: Infrastructure
+  - id: judgment
+    name: Judgment
+  - id: kitchen
+    name: Kitchen
+  - id: kitchenware
+    name: Kitchenware
+  - id: law
+    name: Law
+  - id: learning
+    name: Learning
+  - id: location
+    name: Location
+  - id: mail
+    name: Mail
+  - id: maintenance
+    name: Maintenance
+  - id: malfunction
+    name: Malfunction
+  - id: manner
+    name: Manner
+  - id: maritime
+    name: Maritime
+  - id: medical
+    name: Medical
+  - id: nature
+    name: Nature
+  - id: navigation
+    name: Navigation
+  - id: object
+    name: Object
+  - id: occupation
+    name: Occupation
+  - id: people
+    name: People
+  - id: personality
+    name: Personality
+  - id: philosophy
+    name: Philosophy
+  - id: phobia
+    name: Phobia
+  - id: place
+    name: Place
+  - id: places
+    name: Places
+  - id: politeness
+    name: Politeness
+  - id: position
+    name: Position
+  - id: prediction
+    name: Prediction
+  - id: preference
+    name: Preference
+  - id: preparation
+    name: Preparation
+  - id: profession
+    name: Profession
+  - id: promise
+    name: Promise
+  - id: quality
+    name: Quality
+  - id: recovery
+    name: Recovery
+  - id: relationship
+    name: Relationship
+  - id: repair
+    name: Repair
+  - id: research
+    name: Research
+  - id: safety
+    name: Safety
+  - id: sensation
+    name: Sensation
+  - id: shopping
+    name: Shopping
+  - id: slang
+    name: Slang
+  - id: sleep
+    name: Sleep
+  - id: state
+    name: State
+  - id: studying
+    name: Studying
+  - id: supernatural
+    name: Supernatural
+  - id: superstition
+    name: Superstition
+  - id: technology
+    name: Technology
+  - id: texture
+    name: Texture
+  - id: time
+    name: Time
+  - id: trace
+    name: Trace
+  - id: traffic
+    name: Traffic
+  - id: transportation
+    name: Transportation
+  - id: travel
+    name: Travel
+  - id: urgency
+    name: Urgency
+  - id: virtue
+    name: Virtue
+  - id: wealth
+    name: Wealth
+  - id: weather
+    name: Weather
+  - id: work
+    name: Work
+cards:
+  - id: ko-a-neun-b-eu-ro-bakkwida
+    categories:
+      - grammar
+    front: A changes into B
+    back: (A는) B(으)로 바뀌다
+    pronunciation: (A-neun) B-(eu)ro bakkwida
+    examples:
+      - target: 이후에 바이올린 음악으로 바뀌었어요.
+        translation: After that, it changed to violin music.
+  - id: ko-a-a-eo-jida
+    categories:
+      - grammar
+    front: to become A
+    back: A-(아/어)지다
+    pronunciation: A-(a-eo)jida
+    examples:
+      - target: 말도 많아지고 사람들 앞에서도 부끄러워하지 않습니다.
+        translation: I became more talkative and am no longer shy in front of people.
+  - id: ko-v-eu-ryeogo
+    categories:
+      - grammar
+    front: intending to V, in order to V
+    back: V-(으)려고
+    pronunciation: V-(eu)ryeogo
+  - id: ko-v-eu-myeonseo
+    categories:
+      - grammar
+    front: while doing V
+    back: V-(으)면서
+    pronunciation: V-(eu)myeonseo
+    examples:
+      - target: 매달 열리는 이 행사는 천천히 걸으면서 공원의 경치를 즐기는 행사입니다.
+        translation: This monthly event is an event where people walk slowly while enjoying the park scenery.
+  - id: ko-v-gi-wihaeseo
+    categories:
+      - grammar
+    front: in order to do V
+    back: V-기 위해서
+    pronunciation: V-gi wihaeseo
+    examples:
+      - target: 그래서 사람들에게 갈아타는 역을 잘 알려 주기 위해서 새소리를 함께 사용하게 되었습니다.
+        translation: So bird sounds also came to be used to clearly inform people of the transfer station.
+  - id: ko-gage
+    categories:
+      - shopping
+    front: store, shop
+    back: 가게
+    pronunciation: gage
+    examples:
+      - target: 이 가게는 옷을 많이 팔아요.
+        translation: This store sells a lot of clothes.
+  - id: ko-gagyeok
+    categories:
+      - shopping
+    front: price
+    back: 가격
+    pronunciation: gagyeok
+    examples:
+      - target: 이 바지의 가격은 얼마인가요?
+        translation: What is the price of these pants?
+  - id: ko-garodeung
+    categories:
+      - city
+    front: streetlamp, streetlight
+    back: 가로등
+    pronunciation: garodeung
+    examples:
+      - target: 밤이 되면 가로등이 환하게 길을 밝혀준다.
+        translation: When night falls, the streetlights brightly illuminate the road.
+  - id: ko-gaunde
+    categories:
+      - position
+    front: middle, center, among
+    back: 가운데
+    pronunciation: gaunde
+    examples:
+      - target: 테이블 가운데에 꽃병이 놓여 있어요.
+        translation: There's a vase in the middle of the table.
+  - id: ko-ganjireopda
+    categories:
+      - sensation
+    front: to be itchy
+    back: 간지럽다
+    pronunciation: ganjireopda
+    examples:
+      - target: 모기에 물려서 다리가 간지러워요.
+        translation: My leg is itchy because I was bitten by a mosquito.
+  - id: ko-galsaek
+    categories:
+      - colors
+    front: brown
+    back: 갈색
+    pronunciation: galsaek
+  - id: ko-geosil
+    categories:
+      - home
+    front: living room
+    back: 거실
+    pronunciation: geosil
+    examples:
+      - target: 우리 집 거실은 아주 넓어요.
+        translation: Our living room is very spacious.
+  - id: ko-geonneo
+    categories:
+      - direction
+    front: across, over (to the other side)
+    back: 건너
+    pronunciation: geonneo
+    examples:
+      - target: 길을 건너세요.
+        translation: Cross the road.
+  - id: ko-geonjogi
+    categories:
+      - appliances
+    front: clothes dryer; tumble dryer
+    back: 건조기
+    pronunciation: geonjogi
+    examples:
+      - target: 세탁기가 고장 나서 빨래를 건조기에 넣었어요.
+        translation: The washing machine broke down, so I put the laundry in the dryer.
+  - id: ko-geomeunsaek
+    categories:
+      - colors
+    front: black
+    back: 검은색
+    pronunciation: geomeunsaek
+  - id: ko-gedaga
+    categories:
+      - connectors
+    front: moreover, on top of that
+    back: 게다가
+    pronunciation: gedaga
+    examples:
+      - target: 비가 옵니다. 게다가 바람도 많이 붑니다.
+        translation: It's raining, and on top of that it's very windy.
+  - id: ko-gyeolguk
+    categories:
+      - connectors
+    front: eventually, in the end, after all
+    back: 결국
+    pronunciation: gyeolguk
+    examples:
+      - target: 우리는 결국 그 문제를 해결했습니다.
+        translation: We eventually solved the problem.
+  - id: ko-gyeongchi
+    categories:
+      - nature
+    front: scenery
+    back: 경치
+    pronunciation: gyeongchi
+    examples:
+      - target: 경치 즐기다
+        translation: Enjoy the scenery.
+  - id: ko-goso-gongpojeung
+    categories:
+      - phobia
+    front: acrophobia (fear of heights)
+    back: 고소공포증
+    pronunciation: goso gongpojeung
+    examples:
+      - target: 저는 고소공포증이 있어서 높은 곳에 못 올라가요.
+        translation: I have acrophobia, so I can't go up high places.
+  - id: ko-gojangnada
+    categories:
+      - malfunction
+    front: to break down, to malfunction
+    back: 고장나다
+    pronunciation: gojangnada
+    examples:
+      - target: 내 차가 고장났어.
+        translation: My car broke down.
+  - id: ko-golmok
+    categories:
+      - place
+    front: alley, lane
+    back: 골목
+    pronunciation: golmok
+    examples:
+      - target: 좁은 골목길을 지나 공원으로 갔다.
+        translation: We passed through a narrow alley and went to the park.
+  - id: ko-gwanramhada
+    categories:
+      - culture
+    front: to view, to watch, to observe (a performance, exhibition, game, etc.)
+    back: 관람하다
+    pronunciation: gwanramhada
+    examples:
+      - target: 우리는 주말에 박물관에서 특별 전시를 관람했습니다.
+        translation: We viewed a special exhibition at the museum on the weekend.
+  - id: ko-gwaenhi
+    categories:
+      - emotion
+    front: for no reason, unnecessarily, in vain
+    back: 괜히
+    pronunciation: gwaenhi
+    examples:
+      - target: 괜히 걱정했네요.
+        translation: I worried for no reason.
+  - id: ko-gungja
+    categories:
+      - history
+    front: archer, bowman
+    back: 궁자
+    pronunciation: gungja
+    examples:
+      - target: 옛날에는 뛰어난 궁자가 나라를 지키는 데 큰 역할을 했다.
+        translation: In ancient times, a skilled archer played a significant role in defending the country.
+  - id: ko-gwisin
+    categories:
+      - supernatural
+    front: ghost
+    back: 귀신
+    pronunciation: gwisin
+    examples:
+      - target: 밤에 혼자 있을 때 귀신이 나타날까 봐 무서웠어요.
+        translation: I was scared a ghost might appear when I was alone at night.
+  - id: ko-geu-ttaemune
+    categories:
+      - connectors
+    front: because of that
+    back: 그 때문에
+    pronunciation: geu ttaemune
+    examples:
+      - target: 길이 막혔습니다. 그 때문에 늦었습니다.
+        translation: Traffic was bad. Because of that, I was late.
+  - id: ko-geu-hue
+    categories:
+      - connectors
+    front: after that
+    back: 그 후에
+    pronunciation: geu hue
+    examples:
+      - target: 학교에 갔습니다. 그 후에 친구를 만났습니다.
+        translation: I went to school. After that, I met a friend.
+  - id: ko-geudaeume
+    categories:
+      - connectors
+    front: next
+    back: 그다음에
+    pronunciation: geudaeume
+    examples:
+      - target: 책을 읽었습니다. 그다음에 잤습니다.
+        translation: I read a book. Then I slept.
+  - id: ko-geuraedo
+    categories:
+      - connectors
+    front: nevertheless, even so
+    back: 그래도
+    pronunciation: geuraedo
+    examples:
+      - target: 비가 옵니다. 그래도 갑니다.
+        translation: It's raining. Even so, I'm going.
+  - id: ko-geuraeseo
+    categories:
+      - connectors
+    front: so, therefore
+    back: 그래서
+    pronunciation: geuraeseo
+    examples:
+      - target: 비가 왔습니다. 그래서 집에 있었습니다.
+        translation: It rained, so I stayed home.
+  - id: ko-geureona
+    categories:
+      - connectors
+    front: however
+    back: 그러나
+    pronunciation: geureona
+    examples:
+      - target: 열심히 공부했습니다. 그러나 시험이 어려웠습니다.
+        translation: I studied hard. However, the test was difficult.
+  - id: ko-geureomyeon
+    categories:
+      - connectors
+    front: then, in that case
+    back: 그러면
+    pronunciation: geureomyeon
+    examples:
+      - target: 시간이 없어요? 그러면 내일 합시다.
+        translation: No time? Then let's do it tomorrow.
+  - id: ko-geureomeuro
+    categories:
+      - connectors
+    front: therefore
+    back: 그러므로
+    pronunciation: geureomeuro
+    examples:
+      - target: 위험합니다. 그러므로 조심해야 합니다.
+        translation: It is dangerous. Therefore, you must be careful.
+  - id: ko-geureonde
+    categories:
+      - connectors
+    front: but, however, by the way
+    back: 그런데
+    pronunciation: geureonde
+    examples:
+      - target: 학교에 갔습니다. 그런데 문이 닫혀 있었습니다.
+        translation: I went to school, but the door was closed.
+  - id: ko-geureotamyeon
+    categories:
+      - connectors
+    front: if so, in that case
+    back: 그렇다면
+    pronunciation: geureotamyeon
+    examples:
+      - target: 어렵습니까? 그렇다면 제가 도와드리겠습니다.
+        translation: Is it difficult? If so, I'll help.
+  - id: ko-geureochiman
+    categories:
+      - connectors
+    front: however, but
+    back: 그렇지만
+    pronunciation: geureochiman
+    examples:
+      - target: 비쌉니다. 그렇지만 사고 싶습니다.
+        translation: It's expensive, but I want to buy it.
+  - id: ko-geurigo-naseo
+    categories:
+      - connectors
+    front: after that
+    back: 그리고 나서
+    pronunciation: geurigo naseo
+    examples:
+      - target: 밥을 먹었습니다. 그리고 나서 공부했습니다.
+        translation: I ate, then studied.
+  - id: ko-geurigo
+    categories:
+      - connectors
+    front: and, and then
+    back: 그리고
+    pronunciation: geurigo
+    examples:
+      - target: 저는 밥을 먹었습니다. 그리고 커피를 마셨습니다.
+        translation: I ate, and then drank coffee.
+  - id: ko-geumbang
+    categories:
+      - time
+    front: soon, shortly, in a moment
+    back: 금방
+    pronunciation: geumbang
+    examples:
+      - target: 금방 다시 올게요.
+        translation: I'll be back soon.
+  - id: ko-geumsaek
+    categories:
+      - colors
+    front: gold
+    back: 금색
+    pronunciation: geumsaek
+  - id: ko-ginyeompum
+    categories:
+      - travel
+    front: souvenir
+    back: 기념품
+    pronunciation: ginyeompum
+  - id: ko-gireuda
+    categories:
+      - family
+    front: to raise, to grow, to cultivate, to bring up
+    back: 기르다
+    pronunciation: gireuda
+    examples:
+      - target: 그녀는 세 아이를 기르고 있습니다.
+        translation: She is raising three children.
+  - id: ko-kkaeda
+    categories:
+      - daily-routine
+    front: to wake up
+    back: 깨다
+    pronunciation: kkaeda
+    examples:
+      - target: 아침에 일찍 깼어요.
+        translation: I woke up early in the morning.
+  - id: ko-kkeungi
+    categories:
+      - virtue
+    front: perseverance, tenacity, persistence
+    back: 끈기
+    pronunciation: kkeungi
+    examples:
+      - target: 끈기가 있으면 어떤 어려움도 극복할 수 있어요.
+        translation: If you have perseverance, you can overcome any difficulty.
+  - id: ko-kkeunkkeunhada
+    categories:
+      - texture
+    front: to be sticky, gooey, viscous (can also imply a close/intimate relationship)
+    back: 끈끈하다
+    pronunciation: kkeunkkeunhada
+    examples:
+      - target: 이 사탕은 손에 끈끈하게 달라붙어요.
+        translation: This candy sticks to my hands stickily.
+  - id: ko-kkeunjeokkkeunjeokhada
+    categories:
+      - sensation
+    front: to be sticky, to be gooey, to be clammy
+    back: 끈적끈적하다
+    pronunciation: kkeunjeokkkeunjeokhada
+    examples:
+      - target: 땀 때문에 피부가 끈적끈적해요.
+        translation: My skin is sticky because of sweat.
+  - id: ko-kkeunjeokhada
+    categories:
+      - texture
+    front: sticky, gooey, viscous
+    back: 끈적하다
+    pronunciation: kkeunjeokhada
+    examples:
+      - target: 이 엿은 설탕이 많아서 끈적해요.
+        translation: This yeot (Korean traditional taffy) is very sticky because it has a lot of sugar.
+  - id: ko-kkeurida
+    categories:
+      - cooking
+    front: to boil
+    back: 끓이다
+    pronunciation: kkeurida
+    examples:
+      - target: 라면을 끓이다.
+        translation: To boil ramen.
+  - id: ko-naajida
+    categories:
+      - health
+    front: to get better, to improve
+    back: 나아지다
+    pronunciation: naajida
+    examples:
+      - target: 감기가 많이 나아졌어요.
+        translation: My cold has gotten much better.
+  - id: ko-najunge
+    categories:
+      - connectors
+    front: later
+    back: 나중에
+    pronunciation: najunge
+    examples:
+      - target: 나중에 전화할게요.
+        translation: I'll call you later.
+  - id: ko-nachimban
+    categories:
+      - navigation
+    front: compass
+    back: 나침반
+    pronunciation: nachimban
+    examples:
+      - target: 우리는 나침반을 사용하여 길을 찾았다.
+        translation: We used a compass to find our way.
+  - id: ko-namsaek
+    categories:
+      - colors
+    front: navy blue, indigo
+    back: 남색
+    pronunciation: namsaek
+  - id: ko-nangbihada
+    categories:
+      - time
+    front: to waste, to squander
+    back: 낭비하다
+    pronunciation: nangbihada
+    examples:
+      - target: 시간을 낭비하지 마세요.
+        translation: Don't waste time.
+  - id: ko-naejang
+    categories:
+      - anatomy
+    front: internal organs, viscera
+    back: 내장
+    pronunciation: naejang
+    examples:
+      - target: 의사는 환자의 내장에 문제가 있는지 확인했다.
+        translation: The doctor checked if there was a problem with the patient's internal organs.
+  - id: ko-naembi
+    categories:
+      - kitchen
+    front: pot, saucepan
+    back: 냄비
+    pronunciation: naembi
+    examples:
+      - target: 라면을 끓이려면 냄비가 필요해요.
+        translation: You need a pot to boil ramen.
+  - id: ko-neolda
+    categories:
+      - description
+    front: to be spacious
+    back: 넓다
+    pronunciation: neolda
+    examples:
+      - target: 우리 집 거실은 넓어요.
+        translation: Our living room is spacious.
+  - id: ko-noransaek
+    categories:
+      - colors
+    front: yellow
+    back: 노란색
+    pronunciation: noransaek
+  - id: ko-noryeok
+    categories:
+      - work
+    front: effort
+    back: 노력
+    pronunciation: noryeok
+    examples:
+      - target: 성공하기 위해서는 노력이 필요해요.
+        translation: Effort is needed to succeed.
+  - id: ko-nokda
+    categories:
+      - change
+    front: to melt
+    back: 녹다
+    pronunciation: nokda
+    examples:
+      - target: 얼음이 녹아요.
+        translation: The ice melts.
+  - id: ko-nungarigae
+    categories:
+      - object
+    front: blindfold
+    back: 눈가리개
+    pronunciation: nungarigae
+    examples:
+      - target: 범인은 피해자의 눈가리개를 벗겼다.
+        translation: The culprit took off the victim's blindfold.
+  - id: ko-darijjitgi
+    categories:
+      - exercise
+    front: doing the splits; the splits (as an action/technique)
+    back: 다리찢기
+    pronunciation: darijjitgi
+    examples:
+      - target: 무용수들은 유연성을 기르기 위해 매일 다리찢기를 연습합니다.
+        translation: Dancers practice doing the splits every day to improve their flexibility.
+  - id: ko-dasi-malhaeseo
+    categories:
+      - connectors
+    front: in other words
+    back: 다시 말해서
+    pronunciation: dasi malhaeseo
+    examples:
+      - target: 가격이 올랐습니다. 다시 말해서, 더 비싸졌습니다.
+        translation: The price went up. In other words, it became more expensive.
+  - id: ko-dayanghada
+    categories:
+      - description
+    front: to be various, diverse
+    back: 다양하다
+    pronunciation: dayanghada
+    examples:
+      - target: 저는 그 동아리에 들어가서 다양한 연극 공연을 했습니다.
+        translation: I joined that club and performed various plays.
+  - id: ko-danpung
+    categories:
+      - nature
+    front: autumn leaves
+    back: 단풍
+    pronunciation: danpung
+  - id: ko-damdang
+    categories:
+      - work
+    front: charge, responsibility; person in charge; to be in charge of
+    back: 담당
+    pronunciation: damdang
+    examples:
+      - target: 이 프로젝트는 제가 담당하고 있습니다.
+        translation: I am in charge of this project.
+  - id: ko-dangjang
+    categories:
+      - urgency
+    front: right away, immediately, at once
+    back: 당장
+    pronunciation: dangjang
+    examples:
+      - target: 당장 해야 할 일이 많아요.
+        translation: I have a lot of things to do right away.
+  - id: ko-deokbune
+    categories:
+      - connectors
+    front: thanks to
+    back: 덕분에
+    pronunciation: deokbune
+    examples:
+      - target: 친구 덕분에 숙제를 끝냈습니다.
+        translation: Thanks to my friend, I finished the homework.
+  - id: ko-do
+    categories:
+      - grammar
+    front: also, too, even
+    back: 도
+    pronunciation: do
+    examples:
+      - target: 사람들 앞에서 부끄러워서 말도 잘 못했습니다.
+        translation: I was shy in front of people, so I could not even speak well.
+  - id: ko-doma
+    categories:
+      - kitchen
+    front: cutting board
+    back: 도마
+    pronunciation: doma
+    examples:
+      - target: 도마에 채소를 썰어요.
+        translation: I cut vegetables on the cutting board.
+  - id: ko-dolda
+    categories:
+      - celestial
+    front: to turn, to rotate, to spin, to go around
+    back: 돌다
+    pronunciation: dolda
+    examples:
+      - target: 지구가 태양 주위를 돈다.
+        translation: The Earth turns around the sun.
+  - id: ko-dongbang-yeui-jiguk
+    categories:
+      - politeness
+    front: The Land of Courtesy in the East; a historical term referring to Korea's reputation for valuing politeness and etiquette, often used to emphasize the importance of maintaining courteous behavior.
+    back: 동방예의지국
+    pronunciation: Dongbang-yeui-jiguk
+    examples:
+      - target: 우리는 동방예의지국 국민답게 항상 예의 바르게 행동해야 합니다.
+        translation: As citizens of the Land of Courtesy in the East, we should always act politely.
+  - id: ko-dongari
+    categories:
+      - education
+    front: club
+    back: 동아리
+    pronunciation: dongari
+    examples:
+      - target: 동아리 신청하다
+        translation: Apply to a club.
+  - id: ko-dot
+    categories:
+      - maritime
+    front: sail (of a ship)
+    back: 돛
+    pronunciation: dot
+    examples:
+      - target: 바람을 받기 위해 돛을 올렸다.
+        translation: They hoisted the sail to catch the wind.
+  - id: ko-deudieo
+    categories:
+      - connectors
+    front: finally, at last
+    back: 드디어
+    pronunciation: deudieo
+    examples:
+      - target: 드디어 시험이 끝났습니다.
+        translation: The exam is finally over.
+  - id: ko-deundeunhada
+    categories:
+      - feeling
+    front: reliable, dependable, sturdy, hearty (meal), reassuring
+    back: 든든하다
+    pronunciation: deundeunhada
+    examples:
+      - target: 이 사람은 언제나 믿고 의지할 수 있어서 정말 든든해요.
+        translation: This person is always someone you can trust and rely on, so it's very reassuring.
+  - id: ko-ttaraseo
+    categories:
+      - connectors
+    front: therefore, consequently
+    back: 따라서
+    pronunciation: ttaraseo
+    examples:
+      - target: 사람이 많습니다. 따라서 시간이 오래 걸립니다.
+        translation: There are many people, so it takes a long time.
+  - id: ko-ttaero
+    categories:
+      - frequency
+    front: sometimes, at times
+    back: 때로
+    pronunciation: ttaero
+    examples:
+      - target: 우리는 때로 실수를 해요.
+        translation: We make mistakes sometimes.
+  - id: ko-ttaemune
+    categories:
+      - connectors
+    front: because of
+    back: 때문에
+    pronunciation: ttaemune
+    examples:
+      - target: 비 때문에 못 갔습니다.
+        translation: I couldn't go because of the rain.
+  - id: ko-tto
+    categories:
+      - connectors
+    front: also, again
+    back: 또
+    pronunciation: tto
+    examples:
+      - target: 한국어는 재미있습니다. 또 유용합니다.
+        translation: Korean is fun and also useful.
+  - id: ko-ttoneun
+    categories:
+      - connectors
+    front: or
+    back: 또는
+    pronunciation: ttoneun
+    examples:
+      - target: 전화 또는 이메일로 신청하세요.
+        translation: Apply by phone or email.
+  - id: ko-ttohan
+    categories:
+      - connectors
+    front: furthermore, also
+    back: 또한
+    pronunciation: ttohan
+    examples:
+      - target: 이 책은 쉽습니다. 또한 재미있습니다.
+        translation: This book is easy and also interesting.
+  - id: ko-ttwieonan
+    categories:
+      - adjective
+    front: excellent, outstanding, superb
+    back: 뛰어난
+    pronunciation: ttwieonan
+    examples:
+      - target: 그는 모든 면에서 뛰어난 학생입니다.
+        translation: He is an outstanding student in every aspect.
+  - id: ko-majimageuro
+    categories:
+      - connectors
+    front: finally, lastly
+    back: 마지막으로
+    pronunciation: majimageuro
+    examples:
+      - target: 마지막으로 이름을 쓰세요.
+        translation: Finally, write your name.
+  - id: ko-manyak
+    categories:
+      - connectors
+    front: if
+    back: 만약
+    pronunciation: manyak
+    examples:
+      - target: 만약 시간이 있으면 같이 갑시다.
+        translation: If you have time, let's go together.
+  - id: ko-manil
+    categories:
+      - connectors
+    front: if, in case
+    back: 만일
+    pronunciation: manil
+    examples:
+      - target: 만일 문제가 생기면 전화하세요.
+        translation: If a problem occurs, call me.
+  - id: ko-manjang
+    categories:
+      - assembly
+    front: all present, full house
+    back: 만장
+    pronunciation: manjang
+    examples:
+      - target: 만장의 관객들이 기립박수를 보냈다.
+        translation: All the audience members present gave a standing ovation.
+  - id: ko-maeryeok
+    categories:
+      - personality
+    front: charm, attractiveness, appeal
+    back: 매력
+    pronunciation: maeryeok
+    examples:
+      - target: 그는 사람을 끌어당기는 매력이 있어요.
+        translation: He has a charm that draws people in.
+  - id: ko-meokda
+    categories:
+      - food
+    front: to eat
+    back: 먹다
+    pronunciation: meokda
+    examples:
+      - target: 저는 매일 아침 사과를 먹어요.
+        translation: I eat an apple every morning.
+  - id: ko-meonjeo
+    categories:
+      - connectors
+    front: first
+    back: 먼저
+    pronunciation: meonjeo
+    examples:
+      - target: 먼저 손을 씻으세요.
+        translation: First, wash your hands.
+  - id: ko-moseup
+    categories:
+      - appearance
+    front: look, appearance, figure, shape
+    back: 모습
+    pronunciation: moseup
+    examples:
+      - target: 그녀의 아름다운 모습에 모두 놀랐다.
+        translation: Everyone was surprised by her beautiful appearance.
+  - id: ko-moyang
+    categories:
+      - appearance
+    front: shape
+    back: 모양
+    pronunciation: moyang
+    examples:
+      - target: 지난 주말에는 백화점에서 꽃 모양 접시를 샀습니다.
+        translation: Last weekend, I bought a flower-shaped plate at a department store.
+  - id: ko-moeuda
+    categories:
+      - action
+    front: to collect, gather
+    back: 모으다
+    pronunciation: moeuda
+    examples:
+      - target: 저는 그릇 모으는 것이 취미입니다.
+        translation: My hobby is collecting dishes.
+  - id: ko-mite
+    categories:
+      - location
+    front: under, below, at the bottom
+    back: 밑에
+    pronunciation: mite
+    examples:
+      - target: 책상 밑에 가방이 있어요.
+        translation: There is a bag under the desk.
+  - id: ko-bakwi
+    categories:
+      - transportation
+    front: wheel
+    back: 바퀴
+    pronunciation: bakwi
+    examples:
+      - target: 자전거 바퀴가 고장 났어요.
+        translation: The bicycle wheel is broken.
+  - id: ko-bandochae-seolgye
+    categories:
+      - technology
+    front: semiconductor design
+    back: 반도체 설계
+    pronunciation: bandochae seolgye
+    examples:
+      - target: 이 회사는 반도체 설계 전문 기업입니다.
+        translation: This company is a specialized semiconductor design firm.
+  - id: ko-banmyeone
+    categories:
+      - connectors
+    front: on the other hand, whereas
+    back: 반면에
+    pronunciation: banmyeone
+    examples:
+      - target: 형은 조용합니다. 반면에 동생은 활발합니다.
+        translation: The older brother is quiet, whereas the younger one is active.
+  - id: ko-baljja-guk
+    categories:
+      - trace
+    front: footprint
+    back: 발자국
+    pronunciation: baljja-guk
+    examples:
+      - target: 눈 위에 발자국이 있어요.
+        translation: There are footprints on the snow.
+  - id: ko-bangeohada
+    categories:
+      - defense
+    front: to defend, to protect
+    back: 방어하다
+    pronunciation: bangeohada
+    examples:
+      - target: 국가는 외부 위협으로부터 국민을 방어해야 한다.
+        translation: The state must defend its citizens from external threats.
+  - id: ko-beranda
+    categories:
+      - architecture
+    front: veranda, balcony
+    back: 베란다
+    pronunciation: beranda
+    examples:
+      - target: 아파트 베란다에서 화초를 키우고 있어요.
+        translation: I'm growing potted plants on the apartment veranda.
+  - id: ko-beijisaek
+    categories:
+      - colors
+    front: beige
+    back: 베이지색
+    pronunciation: beijisaek
+  - id: ko-byeonmyeonghada
+    categories:
+      - excuse
+    front: to make an excuse; to excuse oneself
+    back: 변명하다
+    pronunciation: byeonmyeonghada
+    examples:
+      - target: 늦잠 자서 지각한 것을 변명하지 마세요.
+        translation: Don't make excuses for being late because you overslept.
+  - id: ko-bonit
+    categories:
+      - car
+    front: bonnet; hood (of a car)
+    back: 보닛
+    pronunciation: bonit
+    examples:
+      - target: 자동차 보닛을 열어 엔진을 점검했어요.
+        translation: I opened the car's bonnet and checked the engine.
+  - id: ko-bodo-beullok
+    categories:
+      - city
+    front: pavement block, sidewalk block
+    back: 보도블록
+    pronunciation: bodo-beullok
+    examples:
+      - target: 새로 깔린 보도블록 덕분에 거리가 깨끗해졌어요.
+        translation: Thanks to the newly laid pavement blocks, the street has become clean.
+  - id: ko-borasaek
+    categories:
+      - colors
+    front: purple
+    back: 보라색
+    pronunciation: borasaek
+  - id: ko-boricha
+    categories:
+      - beverage
+    front: barley tea
+    back: 보리차
+    pronunciation: boricha
+    examples:
+      - target: 저는 시원한 보리차 한 잔을 마시고 싶어요.
+        translation: I want to drink a glass of cool barley tea.
+  - id: ko-boheom
+    categories:
+      - finance
+    front: insurance
+    back: 보험
+    pronunciation: boheom
+    examples:
+      - target: 저는 건강 보험에 가입했어요.
+        translation: I signed up for health insurance.
+  - id: ko-bueok
+    categories:
+      - home
+    front: kitchen
+    back: 부엌
+    pronunciation: bueok
+    examples:
+      - target: 우리 집 부엌은 아주 넓어요.
+        translation: The kitchen in our house is very spacious.
+  - id: ko-buja
+    categories:
+      - wealth
+    front: rich person, wealthy person, millionaire
+    back: 부자
+    pronunciation: buja
+    examples:
+      - target: 저 사람은 아주 부자예요.
+        translation: That person is very rich.
+  - id: ko-bunhongsaek
+    categories:
+      - colors
+    front: pink
+    back: 분홍색
+    pronunciation: bunhongsaek
+  - id: ko-bulbeop
+    categories:
+      - law
+    front: illegal; unlawfulness; illicit act
+    back: 불법
+    pronunciation: bulbeop
+    examples:
+      - target: 불법 주차는 과태료 부과 대상입니다.
+        translation: Illegal parking is subject to a fine.
+  - id: ko-bimongsahamghada
+    categories:
+      - state
+    front: to be half-asleep and half-awake, to be in a dreamlike state, to be groggy
+    back: 비몽사몽하다
+    pronunciation: bimongsahamghada
+    examples:
+      - target: 아침에는 비몽사몽해서 뭘 하는지 잘 모르겠어요.
+        translation: In the morning, I'm so groggy that I don't really know what I'm doing.
+  - id: ko-ppalgansaek
+    categories:
+      - colors
+    front: red
+    back: 빨간색
+    pronunciation: ppalgansaek
+  - id: ko-ppalgata
+    categories:
+      - colors
+    front: to be red
+    back: 빨갛다
+    pronunciation: ppalgata
+    examples:
+      - target: 이번 달에는 인주공원의 빨갛고 노란 단풍을 볼 수 있습니다.
+        translation: This month, you can see the red and yellow autumn leaves of Inju Park.
+  - id: ko-ppunman-anira
+    categories:
+      - connectors
+    front: not only, but also
+    back: 뿐만 아니라
+    pronunciation: ppunman anira
+    examples:
+      - target: 그는 한국어뿐만 아니라 일본어도 합니다.
+        translation: He speaks not only Korean but also Japanese.
+  - id: ko-sasil
+    categories:
+      - connectors
+    front: actually, in fact
+    back: 사실
+    pronunciation: sasil
+    examples:
+      - target: 사실 저는 한국에 가 본 적이 없습니다.
+        translation: Actually, I've never been to Korea.
+  - id: ko-sai
+    categories:
+      - location
+    front: between, among
+    back: 사이
+    pronunciation: sai
+    examples:
+      - target: 우리 집은 학교와 역 사이에 있어요.
+        translation: Our house is between the school and the station.
+  - id: ko-saju
+    categories:
+      - fortune-telling
+    front: Four Pillars of Destiny (Korean traditional fortune-telling based on birth date and time); horoscope; fortune
+    back: 사주
+    pronunciation: saju
+    examples:
+      - target: 내 사주를 봐주세요.
+        translation: Please tell my fortune (based on my birth information).
+  - id: ko-sakjehada
+    categories:
+      - technology
+    front: to delete, to erase
+    back: 삭제하다
+    pronunciation: sakjehada
+    examples:
+      - target: 이 파일을 삭제해 주세요.
+        translation: Please delete this file.
+  - id: ko-sar-anada
+    categories:
+      - recovery
+    front: to revive / to recover
+    back: 살아나다
+    pronunciation: sar-anada
+    examples:
+      - target: 환자가 천천히 살아나고 있습니다.
+        translation: The patient is slowly recovering.
+  - id: ko-samcheonri
+    categories:
+      - geography
+    front: three thousand ri (an ancient unit of distance, often used to refer to the entire territory of Korea, implying a long distance)
+    back: 삼천리
+    pronunciation: samcheonri
+    examples:
+      - target: 삼천리 금수강산은 우리 민족의 자랑스러운 조국이다.
+        translation: The beautiful land of three thousand ri is the proud homeland of our people.
+  - id: ko-sangtae
+    categories:
+      - condition
+    front: state, condition, status
+    back: 상태
+    pronunciation: sangtae
+    examples:
+      - target: 이 기계는 좋은 상태로 유지되고 있습니다.
+        translation: This machine is being maintained in good condition.
+  - id: ko-seoda
+    categories:
+      - action
+    front: to stand; to stop
+    back: 서다
+    pronunciation: seoda
+    examples:
+      - target: 버스 정류장에서 버스를 기다리며 서 있었어요.
+        translation: I was standing at the bus stop, waiting for the bus.
+  - id: ko-seonjang
+    categories:
+      - occupation
+    front: captain
+    back: 선장
+    pronunciation: seonjang
+    examples:
+      - target: 선장이 배를 항구로 이끌었다.
+        translation: The captain led the ship to the harbor.
+  - id: ko-seong-maemae
+    categories:
+      - law
+    front: prostitution; sex trade
+    back: 성 매매
+    pronunciation: seong maemae
+    examples:
+      - target: 성 매매는 한국에서 불법입니다.
+        translation: Prostitution is illegal in Korea.
+  - id: ko-seonggyeok
+    categories:
+      - personality
+    front: personality, character
+    back: 성격
+    pronunciation: seonggyeok
+    examples:
+      - target: 성격이 바뀌다
+        translation: One's personality changes.
+  - id: ko-setakgi
+    categories:
+      - appliance
+    front: washing machine
+    back: 세탁기
+    pronunciation: setakgi
+    examples:
+      - target: 세탁기가 고장 났어요.
+        translation: The washing machine broke down.
+  - id: ko-sopo
+    categories:
+      - mail
+    front: package, parcel
+    back: 소포
+    pronunciation: sopo
+    examples:
+      - target: 우체국에서 소포를 보냈어요.
+        translation: I sent a package at the post office.
+  - id: ko-sok
+    categories:
+      - location
+    front: inside, interior
+    back: 속
+    pronunciation: sok
+    examples:
+      - target: 연극 속에서 말이 많은 사람도, 시끄러운 사람도 되어 봤습니다.
+        translation: In plays, I tried being both talkative and loud.
+  - id: ko-surihada
+    categories:
+      - repair
+    front: to repair, to fix
+    back: 수리하다
+    pronunciation: surihada
+    examples:
+      - target: 고장 난 컴퓨터를 수리했어요.
+        translation: I repaired the broken computer.
+  - id: ko-sungmyeon
+    categories:
+      - sleep
+    front: deep sleep, sound sleep
+    back: 숙면
+    pronunciation: sungmyeon
+    examples:
+      - target: 밤새 숙면을 취해서 아침에 개운했다.
+        translation: I had a deep sleep all night, so I felt refreshed in the morning.
+  - id: ko-sukso
+    categories:
+      - travel
+    front: accommodation, lodging
+    back: 숙소
+    pronunciation: sukso
+    examples:
+      - target: 숙소 예약은 미리 하시는 게 좋아요.
+        translation: It's good to make an accommodation reservation in advance.
+  - id: ko-sinhodung
+    categories:
+      - traffic
+    front: traffic light
+    back: 신호등
+    pronunciation: sinhodŭng
+    examples:
+      - target: 신호등이 빨간 불로 바뀌었어요.
+        translation: The traffic light changed to red.
+  - id: ko-silnyeok
+    categories:
+      - learning
+    front: skill, ability, capability
+    back: 실력
+    pronunciation: silnyeok
+    examples:
+      - target: 한국어 실력이 많이 늘었어요.
+        translation: My Korean skills have improved a lot.
+  - id: ko-simyeon
+    categories:
+      - depth
+    front: abyss, chasm, deep gulf
+    back: 심연
+    pronunciation: simyeon
+    examples:
+      - target: 그는 심연을 들여다보며 존재의 의미를 탐구했다.
+        translation: He looked into the abyss and explored the meaning of existence.
+  - id: ko-aguji-dada
+    categories:
+      - command
+    front: Shut your mouth / Shut up (colloquial, rude)
+    back: 아구지 닫아
+    pronunciation: aguji dada
+    examples:
+      - target: 더 이상 변명하지 말고 아구지 닫아.
+        translation: Stop making excuses and shut your mouth.
+  - id: ko-akkapda
+    categories:
+      - emotion
+    front: to be a waste; to be a pity; to regret
+    back: 아깝다
+    pronunciation: akkapda
+    examples:
+      - target: 너무 아까워서 못 버리겠어요.
+        translation: It's such a waste, I can't throw it away.
+  - id: ko-animyeon
+    categories:
+      - connectors
+    front: or else, or
+    back: 아니면
+    pronunciation: animyeon
+    examples:
+      - target: 커피 마실래요? 아니면 차 마실래요?
+        translation: Would you like coffee? Or would you like tea?
+  - id: ko-aiborisaek
+    categories:
+      - colors
+    front: ivory
+    back: 아이보리색
+    pronunciation: aiborisaek
+  - id: ko-ajeossimuluk
+    categories:
+      - emotion
+    front: A state of a middle-aged man looking gloomy, disappointed, or downcast, often used humorously or to describe a pathetic or sulky mood.
+    back: 아저씨무룩
+    pronunciation: ajeossimuluk
+    examples:
+      - target: 팀장님은 회의 때 자신의 아이디어가 채택되지 않자 아저씨무룩해졌다.
+        translation: When the team leader's idea wasn't adopted during the meeting, he became 'ajeossimuluk' (gloomy like a middle-aged man).
+  - id: ko-ajom
+    categories:
+      - food
+    front: brunch
+    back: 아점
+    pronunciation: ajom
+    examples:
+      - target: 주말에는 늦잠 자고 아점 먹는 게 최고죠.
+        translation: On weekends, sleeping in and having brunch is the best.
+  - id: ko-annae-bangsong
+    categories:
+      - communication
+    front: public announcement
+    back: 안내 방송
+    pronunciation: annae bangsong
+    examples:
+      - target: 음악 없이 안내 방송
+        translation: An announcement without music.
+  - id: ko-anjeon
+    categories:
+      - safety
+    front: safety, security
+    back: 안전
+    pronunciation: anjeon
+    examples:
+      - target: 안전 제일!
+        translation: Safety first!
+  - id: ko-aemaehada
+    categories:
+      - description
+    front: to be ambiguous, vague, unclear, obscure
+    back: 애매하다
+    pronunciation: aemaehada
+    examples:
+      - target: 답변이 너무 애매해서 무슨 뜻인지 모르겠어요.
+        translation: The answer is so ambiguous that I don't know what it means.
+  - id: ko-aein
+    categories:
+      - relationship
+    front: lover, significant other, boyfriend/girlfriend
+    back: 애인
+    pronunciation: aein
+    examples:
+      - target: 내 애인에게 줄 선물을 샀어.
+        translation: I bought a present for my significant other.
+  - id: ko-aekttemhada
+    categories:
+      - superstition
+    front: to ward off bad luck; to avert a misfortune
+    back: 액땜하다
+    pronunciation: aekttemhada
+    examples:
+      - target: 넘어져서 무릎을 다쳤지만, 이 정도면 큰 사고를 액땜했다고 생각해야겠어.
+        translation: I fell and hurt my knee, but I should consider this as having warded off a bigger accident.
+  - id: ko-eoneu-nal
+    categories:
+      - time
+    front: one day
+    back: 어느 날
+    pronunciation: eoneu nal
+    examples:
+      - target: 어느 날 친구가 저에게 연극 동아리를 소개해 주었습니다.
+        translation: One day, a friend introduced me to a theater club.
+  - id: ko-ebaya
+    categories:
+      - slang
+    front: That's too much; That's ridiculous; No way; Exaggerated (slang)
+    back: 에바야
+    pronunciation: ebaya
+    examples:
+      - target: 야, 이 가격은 에바야! 너무 비싸잖아.
+        translation: Hey, this price is ridiculous! It's too expensive.
+  - id: ko-enjin
+    categories:
+      - technology
+    front: engine
+    back: 엔진
+    pronunciation: enjin
+    examples:
+      - target: 자동차 엔진을 수리해야 해요.
+        translation: I need to repair the car engine.
+  - id: ko-yeoseong
+    categories:
+      - people
+    front: woman, female
+    back: 여성
+    pronunciation: yeoseong
+    examples:
+      - target: 이 회사의 여성 직원들은 유능합니다.
+        translation: The female employees of this company are competent.
+  - id: ko-yeokhada
+    categories:
+      - sensation
+    front: to be nauseating, to be repulsive, to be disgusting
+    back: 역하다
+    pronunciation: yeokhada
+    examples:
+      - target: 이 음식 냄새가 너무 역해서 먹기 힘들어요.
+        translation: This food smells so nauseating that it's hard to eat.
+  - id: ko-yeokhal
+    categories:
+      - work
+    front: role, part
+    back: 역할
+    pronunciation: yeokhal
+    examples:
+      - target: 이 프로젝트에서 당신의 역할은 무엇인가요?
+        translation: What is your role in this project?
+  - id: ko-yeondusaek
+    categories:
+      - colors
+    front: light green
+    back: 연두색
+    pronunciation: yeondusaek
+  - id: ko-yeonmu
+    categories:
+      - weather
+    front: mist, haze
+    back: 연무
+    pronunciation: yeonmu
+    examples:
+      - target: 아침에 짙은 연무가 꼈습니다.
+        translation: A thick mist formed in the morning.
+  - id: ko-yeonhada
+    categories:
+      - quality
+    front: to be light, soft, pale
+    back: 연하다
+    pronunciation: yeonhada
+    examples:
+      - target: 저는 연한 색깔 옷을 좋아해요.
+        translation: I like clothes with light colors.
+  - id: ko-yeollida
+    categories:
+      - event
+    front: to be held, take place, open
+    back: 열리다
+    pronunciation: yeollida
+    examples:
+      - target: 매달 열리는 이 행사는
+        translation: This event, held every month...
+  - id: ko-yeonghyangeul-juda
+    categories:
+      - influence
+    front: to influence; to affect; to impact
+    back: 영향을 주다
+    pronunciation: yeonghyangeul juda
+    examples:
+      - target: 그의 연설은 많은 사람들에게 긍정적인 영향을 주었다.
+        translation: His speech had a positive influence on many people.
+  - id: ko-yereul-deulmyeon
+    categories:
+      - connectors
+    front: for example
+    back: 예를 들면
+    pronunciation: yereul deulmyeon
+    examples:
+      - target: 예를 들면, 버스나 지하철을 이용할 수 있습니다.
+        translation: For example, you can use a bus or subway.
+  - id: ko-yereul-deureo
+    categories:
+      - connectors
+    front: for example
+    back: 예를 들어
+    pronunciation: yereul deureo
+    examples:
+      - target: 예를 들어, 김치와 불고기가 있습니다.
+        translation: For example, there are kimchi and bulgogi.
+  - id: ko-yesul
+    categories:
+      - culture
+    front: art
+    back: 예술
+    pronunciation: yesul
+    examples:
+      - target: 예술은 사람의 감정을 표현하는 강력한 수단입니다.
+        translation: Art is a powerful means of expressing human emotions.
+  - id: ko-ohiryeo
+    categories:
+      - connectors
+    front: rather, on the contrary
+    back: 오히려
+    pronunciation: ohiryeo
+    examples:
+      - target: 어렵다고 생각했는데 오히려 쉬웠습니다.
+        translation: I thought it would be difficult, but it was actually easy.
+  - id: ko-waenyahamyeon
+    categories:
+      - connectors
+    front: because
+    back: 왜냐하면
+    pronunciation: waenyahamyeon
+    examples:
+      - target: 저는 집에 있었습니다. 왜냐하면 비가 왔기 때문입니다.
+        translation: I stayed home because it rained.
+  - id: ko-yokeondae
+    categories:
+      - connectors
+    front: in short
+    back: 요컨대
+    pronunciation: yokeondae
+    examples:
+      - target: 요컨대, 건강이 가장 중요합니다.
+        translation: In short, health is most important.
+  - id: ko-yoksil
+    categories:
+      - home
+    front: bathroom
+    back: 욕실
+    pronunciation: yoksil
+    examples:
+      - target: 욕실에 가서 손을 씻어요.
+        translation: I go to the bathroom and wash my hands.
+  - id: ko-yonggi
+    categories:
+      - emotion
+    front: courage, bravery
+    back: 용기
+    pronunciation: yonggi
+    examples:
+      - target: 어려운 일에 용기를 내는 것이 중요해요.
+        translation: It's important to have courage in difficult situations.
+  - id: ko-unse
+    categories:
+      - prediction
+    front: fortune, lot, fate
+    back: 운세
+    pronunciation: unse
+    examples:
+      - target: 올해 운세는 어떻게 될까요?
+        translation: What will my fortune be this year?
+  - id: ko-wonjo
+    categories:
+      - food
+    front: original, founder, originator
+    back: 원조
+    pronunciation: wonjo
+    examples:
+      - target: 이 식당이 떡볶이의 원조입니다.
+        translation: This restaurant is the original Tteokbokki place.
+  - id: ko-yuneunghada
+    categories:
+      - competence
+    front: to be competent, to be capable, to be able
+    back: 유능하다
+    pronunciation: yuneunghada
+    examples:
+      - target: 그는 정말 유능한 직원입니다.
+        translation: He is a truly competent employee.
+  - id: ko-yuilhan
+    categories:
+      - description
+    front: only, unique, sole
+    back: 유일한
+    pronunciation: yuilhan
+    examples:
+      - target: 그는 저의 유일한 친구예요.
+        translation: He is my only friend.
+  - id: ko-yuchihada
+    categories:
+      - behavior
+    front: to be childish; to be immature; to be silly
+    back: 유치하다
+    pronunciation: yuchihada
+    examples:
+      - target: 그의 농담은 너무 유치해서 아무도 웃지 않았다.
+        translation: His joke was so childish that no one laughed.
+  - id: ko-yukgyo
+    categories:
+      - infrastructure
+    front: overpass; pedestrian bridge
+    back: 육교
+    pronunciation: yukgyo
+    examples:
+      - target: 횡단보도가 없는 곳에서는 육교를 이용해야 안전합니다.
+        translation: In places without crosswalks, it is safer to use an overpass.
+  - id: ko-eunggeunhi
+    categories:
+      - manner
+    front: subtly, implicitly, secretly, rather, somewhat
+    back: 은근히
+    pronunciation: eunggeunhi
+    examples:
+      - target: 그녀는 은근히 질투가 많은 편이다.
+        translation: She's rather subtly quite jealous.
+  - id: ko-eunsaek
+    categories:
+      - colors
+    front: silver
+    back: 은색
+    pronunciation: eunsaek
+  - id: ko-ido-jeodo
+    categories:
+      - indecision
+    front: neither this nor that; indecisive
+    back: 이도 저도
+    pronunciation: ido jeodo
+    examples:
+      - target: 저는 이도 저도 못하고 시간을 낭비했어요.
+        translation: I wasted time being indecisive, not being able to do either this or that.
+  - id: ko-isang
+    categories:
+      - health
+    front: abnormality, problem, unusual state
+    back: 이상
+    pronunciation: isang
+    examples:
+      - target: 몸에 이상이 있으면 의사에게 진찰을 받으세요.
+        translation: If there is an abnormality in your body, please see a doctor.
+  - id: ko-ieojuda
+    categories:
+      - connection
+    front: to connect, to link, to pass on (a message)
+    back: 이어주다
+    pronunciation: ieojuda
+    examples:
+      - target: 이 선을 저기에 이어주세요.
+        translation: Please connect this line to that.
+  - id: ko-ingan
+    categories:
+      - philosophy
+    front: human, mankind, person
+    back: 인간
+    pronunciation: ingan
+    examples:
+      - target: 인간은 생각하는 동물이다.
+        translation: Humans are thinking animals.
+  - id: ko-indo
+    categories:
+      - places
+    front: India; sidewalk
+    back: 인도
+    pronunciation: indo
+    examples:
+      - target: 두 가지 의미가 있는데, 보통 '인도' 하면 나라 '인도'를 떠올리고, 길가에 보행자가 걷는 곳은 '인도'라고 해요.
+        translation: There are two meanings. Usually, when you say 'indo', you think of the country 'India', and the place where pedestrians walk on the side of the road is called a 'sidewalk'.
+  - id: ko-ibyanghada
+    categories:
+      - family
+    front: to adopt
+    back: 입양하다
+    pronunciation: ibyanghada
+    examples:
+      - target: 그들은 아이를 입양하기로 결정했습니다.
+        translation: They decided to adopt a child.
+  - id: ko-jakku
+    categories:
+      - frequency
+    front: repeatedly, constantly, frequently, again and again
+    back: 자꾸
+    pronunciation: jakku
+    examples:
+      - target: 제가 자꾸 잊어버려서 미안해요.
+        translation: I'm sorry for repeatedly forgetting.
+  - id: ko-jajusaek
+    categories:
+      - colors
+    front: reddish purple
+    back: 자주색
+    pronunciation: jajusaek
+  - id: ko-jakpum
+    categories:
+      - art
+    front: work, piece (of art), creation
+    back: 작품
+    pronunciation: jakpum
+    examples:
+      - target: 이 작품은 그의 초기작 중 하나입니다.
+        translation: This work is one of his early pieces.
+  - id: ko-jamkkodae
+    categories:
+      - sleep
+    front: sleep talk, somniloquy
+    back: 잠꼬대
+    pronunciation: jamkkodae
+    examples:
+      - target: 어제 밤에 내가 잠꼬대를 했대요.
+        translation: They say I was sleep talking last night.
+  - id: ko-jamdeulda
+    categories:
+      - sleep
+    front: to fall asleep, to go to sleep
+    back: 잠들다
+    pronunciation: jamdeulda
+    examples:
+      - target: 너무 피곤해서 침대에 눕자마자 잠들었어요.
+        translation: I was so tired that I fell asleep as soon as I lay down on the bed.
+  - id: ko-jam-eul-seolchida
+    categories:
+      - sleep
+    front: to have a restless night, to sleep fitfully
+    back: 잠을 설치다
+    pronunciation: jam-eul seolchida
+    examples:
+      - target: 어젯밤에 잠을 설치는 바람에 피곤해요.
+        translation: I'm tired because I had a restless night last night.
+  - id: ko-jeonsihoe
+    categories:
+      - culture
+    front: exhibition, show
+    back: 전시회
+    pronunciation: jeonsihoe
+    examples:
+      - target: 주말에 친구와 함께 전시회에 갔어요.
+        translation: I went to an exhibition with my friend on the weekend.
+  - id: ko-jeontong
+    categories:
+      - culture
+    front: tradition
+    back: 전통
+    pronunciation: jeontong
+    examples:
+      - target: 한국에는 아름다운 전통이 많이 있습니다.
+        translation: There are many beautiful traditions in Korea.
+  - id: ko-jeomgeomhada
+    categories:
+      - maintenance
+    front: to inspect, to check, to examine
+    back: 점검하다
+    pronunciation: jeomgeomhada
+    examples:
+      - target: 우리는 비행기 출발 전에 엔진을 점검해야 합니다.
+        translation: We need to inspect the engine before the plane departs.
+  - id: ko-jeomjeo
+    categories:
+      - food
+    front: meal between lunch and dinner, late lunch, early dinner
+    back: 점저
+    pronunciation: jeomjeo
+    examples:
+      - target: 오늘은 늦잠을 자서 점저를 먹었어요.
+        translation: I overslept today, so I had a meal between lunch and dinner.
+  - id: ko-jeopsi
+    categories:
+      - kitchenware
+    front: plate, dish
+    back: 접시
+    pronunciation: jeopsi
+    examples:
+      - target: 밥을 접시에 담아 먹어요.
+        translation: I put rice on a plate and eat it.
+  - id: ko-jeongdeulda
+    categories:
+      - emotions
+    front: to grow fond of, to become attached to
+    back: 정들다
+    pronunciation: jeongdeulda
+    examples:
+      - target: 이 동네에 정들어서 떠나기 아쉬워요.
+        translation: I've grown fond of this neighborhood, so it's a shame to leave.
+  - id: ko-jeongbo
+    categories:
+      - communication
+    front: information
+    back: 정보
+    pronunciation: jeongbo
+    examples:
+      - target: 이 정보는 매우 중요합니다.
+        translation: This information is very important.
+  - id: ko-jeongsu-gi
+    categories:
+      - home
+    front: water purifier, water dispenser
+    back: 정수기
+    pronunciation: jeongsu-gi
+    examples:
+      - target: 정수기가 고장 났어요.
+        translation: The water purifier is broken.
+  - id: ko-je-an
+    categories:
+      - communication
+    front: proposal, suggestion
+    back: 제안
+    pronunciation: je-an
+    examples:
+      - target: 그의 제안은 모두에게 좋은 아이디어였습니다.
+        translation: His suggestion was a good idea for everyone.
+  - id: ko-jonjae
+    categories:
+      - existence
+    front: existence, being
+    back: 존재
+    pronunciation: jonjae
+    examples:
+      - target: 이 세상에 존재하는 모든 것들은 언젠가 사라진다.
+        translation: Everything that exists in this world will someday disappear.
+  - id: ko-jumunhada
+    categories:
+      - food
+    front: to order
+    back: 주문하다
+    pronunciation: jumunhada
+    examples:
+      - target: 저는 피자를 주문했어요.
+        translation: I ordered a pizza.
+  - id: ko-jubang
+    categories:
+      - household
+    front: kitchen
+    back: 주방
+    pronunciation: jubang
+    examples:
+      - target: 우리 집 주방은 넓고 밝아요.
+        translation: Our house's kitchen is spacious and bright.
+  - id: ko-jubyeon
+    categories:
+      - location
+    front: around, surroundings, vicinity
+    back: 주변
+    pronunciation: jubyeon
+    examples:
+      - target: 학교 주변에 편의점이 있어요.
+        translation: There's a convenience store around the school.
+  - id: ko-jueonja
+    categories:
+      - kitchen
+    front: teapot; kettle
+    back: 주전자
+    pronunciation: jueonja
+    examples:
+      - target: 물을 끓이려고 주전자에 물을 채웠다.
+        translation: I filled the kettle with water to boil it.
+  - id: ko-juhwangsaek
+    categories:
+      - colors
+    front: orange
+    back: 주황색
+    pronunciation: juhwangsaek
+  - id: ko-junbihada
+    categories:
+      - studying
+    front: to prepare; to get ready
+    back: 준비하다
+    pronunciation: junbihada
+    examples:
+      - target: 시험을 준비해야 해요.
+        translation: I need to prepare for the exam.
+  - id: ko-jeuk
+    categories:
+      - connectors
+    front: namely, in other words
+    back: 즉
+    pronunciation: jeuk
+    examples:
+      - target: 그는 제 아버지의 형입니다. 즉, 제 큰아버지입니다.
+        translation: He is my father's older brother—in other words, my uncle.
+  - id: ko-jeulgida
+    categories:
+      - action
+    front: to enjoy, appreciate
+    back: 즐기다
+    pronunciation: jeulgida
+  - id: ko-jireumgil
+    categories:
+      - travel
+    front: shortcut
+    back: 지름길
+    pronunciation: jireumgil
+    examples:
+      - target: 지름길로 가면 시간을 절약할 수 있어요.
+        translation: If you take the shortcut, you can save time.
+  - id: ko-jijeobunhada
+    categories:
+      - description
+    front: to be messy, untidy, dirty
+    back: 지저분하다
+    pronunciation: jijeobunhada
+    examples:
+      - target: 방이 너무 지저분해서 청소를 해야겠어요.
+        translation: My room is so messy that I need to clean it.
+  - id: ko-jikida
+    categories:
+      - promise
+    front: to protect, to keep, to defend, to observe (a rule/promise)
+    back: 지키다
+    pronunciation: jikida
+    examples:
+      - target: 약속을 지키세요.
+        translation: Please keep your promise.
+  - id: ko-jiltu
+    categories:
+      - emotion
+    front: jealousy
+    back: 질투
+    pronunciation: jiltu
+    examples:
+      - target: 그녀는 남자친구의 성공을 질투했다.
+        translation: She was jealous of her boyfriend's success.
+  - id: ko-jjin-deuk-jjin-deuk-ha-da
+    categories:
+      - texture
+    front: To be sticky, gooey, viscous
+    back: 찐득찐득하다
+    pronunciation: jjin-deuk-jjin-deuk-ha-da
+    examples:
+      - target: 이 꿀은 찐득찐득해서 숟가락으로 뜨기 어려워요.
+        translation: This honey is so sticky that it's hard to scoop with a spoon.
+  - id: ko-chamda
+    categories:
+      - emotion
+    front: to endure, to bear, to suppress, to hold back
+    back: 참다
+    pronunciation: chamda
+    examples:
+      - target: 너무 아파서 눈물이 나오려고 했지만 참았어요.
+        translation: It hurt so much that tears were about to come out, but I held them back.
+  - id: ko-chaeuda
+    categories:
+      - action
+    front: to fill
+    back: 채우다
+    pronunciation: chaeuda
+    examples:
+      - target: 컵에 물을 채웠어요.
+        translation: I filled the cup with water.
+  - id: ko-chaetaekdoeda
+    categories:
+      - decision
+    front: to be adopted; to be chosen; to be selected
+    back: 채택되다
+    pronunciation: chaetaekdoeda
+    examples:
+      - target: 이 제안은 만장일치로 채택되었습니다.
+        translation: This proposal was unanimously adopted.
+  - id: ko-chaenggida
+    categories:
+      - preparation
+    front: to take care of, to pack, to prepare, to make sure to bring
+    back: 챙기다
+    pronunciation: chaenggida
+    examples:
+      - target: 여행 갈 때 여권을 꼭 챙기세요.
+        translation: When you travel, make sure to bring your passport.
+  - id: ko-cheondung
+    categories:
+      - nature
+    front: thunder
+    back: 천둥
+    pronunciation: cheondung
+    examples:
+      - target: 천둥 소리가 아주 컸어요.
+        translation: The sound of thunder was very loud.
+  - id: ko-cheom-dun
+    categories:
+      - quality
+    front: sharpness and dullness; the state of being sharp and dull
+    back: 첨둔 (尖鈍)
+    pronunciation: cheom-dun
+    examples:
+      - target: 칼날의 첨둔 정도를 측정한다.
+        translation: We measure the degree of sharpness and dullness of the blade.
+  - id: ko-cheongnoksaek
+    categories:
+      - colors
+    front: turquoise, teal
+    back: 청록색
+    pronunciation: cheongnoksaek
+  - id: ko-cheryeok
+    categories:
+      - health
+    front: physical strength, stamina, endurance
+    back: 체력
+    pronunciation: cheryeok
+    examples:
+      - target: 체력을 기르기 위해 운동을 해요.
+        translation: I exercise to build up my physical strength.
+  - id: ko-choroksaek
+    categories:
+      - colors
+    front: green
+    back: 초록색
+    pronunciation: choroksaek
+  - id: ko-chosangwon
+    categories:
+      - law
+    front: right of publicity; portrait rights
+    back: 초상권
+    pronunciation: chosangwon
+    examples:
+      - target: 연예인에게는 초상권이 매우 중요합니다.
+        translation: For celebrities, the right of publicity is very important.
+  - id: ko-choegeune
+    categories:
+      - time
+    front: recently, lately, in recent days
+    back: 최근에
+    pronunciation: choegeune
+    examples:
+      - target: 저는 최근에 한국 드라마를 많이 봅니다.
+        translation: I've been watching a lot of Korean dramas recently.
+  - id: ko-chuljang
+    categories:
+      - travel
+    front: business trip
+    back: 출장
+    pronunciation: chuljang
+    examples:
+      - target: 김대리님은 다음 주에 부산으로 출장을 갑니다.
+        translation: Assistant Manager Kim is going on a business trip to Busan next week.
+  - id: ko-chim-sil
+    categories:
+      - home
+    front: bedroom
+    back: 침실
+    pronunciation: chim-sil
+    examples:
+      - target: 저희 집에는 침실이 세 개 있습니다.
+        translation: My house has three bedrooms.
+  - id: ko-taieo
+    categories:
+      - transportation
+    front: tire
+    back: 타이어
+    pronunciation: taieo
+    examples:
+      - target: 차 타이어가 펑크 났어요.
+        translation: The car tire went flat.
+  - id: ko-tamguhada
+    categories:
+      - research
+    front: to explore, to investigate, to inquire into
+    back: 탐구하다
+    pronunciation: tamguhada
+    examples:
+      - target: 과학자들은 우주의 기원을 탐구하고 있다.
+        translation: Scientists are exploring the origins of the universe.
+  - id: ko-toesahada
+    categories:
+      - work
+    front: to resign; to quit a job
+    back: 퇴사하다
+    pronunciation: toesahada
+    examples:
+      - target: 그는 이번 달 말에 회사에서 퇴사할 거예요.
+        translation: He will resign from the company at the end of this month.
+  - id: ko-teukhi
+    categories:
+      - connectors
+    front: especially
+    back: 특히
+    pronunciation: teukhi
+    examples:
+      - target: 저는 과일을 좋아합니다. 특히 딸기를 좋아합니다.
+        translation: I like fruit, especially strawberries.
+  - id: ko-teukina
+    categories:
+      - preference
+    front: especially, particularly
+    back: 특히나
+    pronunciation: teukina
+    examples:
+      - target: 저는 겨울을 좋아하지만, 특히나 눈 오는 날을 좋아해요.
+        translation: I like winter, but I especially like snowy days.
+  - id: ko-paransaek
+    categories:
+      - colors
+    front: blue
+    back: 파란색
+    pronunciation: paransaek
+  - id: ko-pandanhada
+    categories:
+      - judgment
+    front: to judge, to make a judgment, to decide
+    back: 판단하다
+    pronunciation: pandanhada
+    examples:
+      - target: 섣부르게 판단하지 마세요.
+        translation: Don't judge too quickly.
+  - id: ko-pyojipan
+    categories:
+      - traffic
+    front: sign, road sign, warning sign
+    back: 표지판
+    pronunciation: pyojipan
+    examples:
+      - target: 운전자는 표지판을 주의 깊게 살펴야 합니다.
+        translation: Drivers must carefully look at the signs.
+  - id: ko-haneulsaek
+    categories:
+      - colors
+    front: sky blue, light blue
+    back: 하늘색
+    pronunciation: haneulsaek
+  - id: ko-hajiman
+    categories:
+      - connectors
+    front: but, however
+    back: 하지만
+    pronunciation: hajiman
+    examples:
+      - target: 비가 옵니다. 하지만 갈 겁니다.
+        translation: It's raining, but I'll go.
+  - id: ko-hanpyeon
+    categories:
+      - connectors
+    front: meanwhile, on the other hand
+    back: 한편
+    pronunciation: hanpyeon
+    examples:
+      - target: 서울은 바빴습니다. 한편 시골은 조용했습니다.
+        translation: Seoul was busy. Meanwhile, the countryside was quiet.
+  - id: ko-hapgyeok
+    categories:
+      - education
+    front: passing (an exam/test), success
+    back: 합격
+    pronunciation: hapgyeok
+    examples:
+      - target: 시험에 합격했어요.
+        translation: I passed the exam.
+  - id: ko-hanghae
+    categories:
+      - travel
+    front: navigation, voyage, sailing
+    back: 항해
+    pronunciation: hanghae
+    examples:
+      - target: 우리는 푸른 바다를 항해했다.
+        translation: We sailed the blue sea.
+  - id: ko-haendeul
+    categories:
+      - driving
+    front: steering wheel, handle
+    back: 핸들
+    pronunciation: haendeul
+    examples:
+      - target: 운전 중에는 핸들을 두 손으로 잡아야 안전해요.
+        translation: It's safer to hold the steering wheel with both hands while driving.
+  - id: ko-haengsa
+    categories:
+      - event
+    front: event
+    back: 행사
+    pronunciation: haengsa
+    examples:
+      - target: 매달 열리는 이 행사는
+        translation: This event, held every month...
+  - id: ko-hyeon-gwan
+    categories:
+      - home
+    front: entrance, front door, entryway
+    back: 현관
+    pronunciation: hyeon-gwan
+    examples:
+      - target: 신발은 현관에 벗어두세요.
+        translation: Please take off your shoes at the entrance.
+  - id: ko-hyeonji
+    categories:
+      - travel
+    front: local; the actual place/site
+    back: 현지
+    pronunciation: hyeonji
+    examples:
+      - target: 현지 음식을 먹어보는 것이 여행의 재미 중 하나예요.
+        translation: Trying local food is one of the joys of traveling.
+  - id: ko-hogeun
+    categories:
+      - connectors
+    front: or, alternatively
+    back: 혹은
+    pronunciation: hogeun
+    examples:
+      - target: 버스 혹은 지하철을 타세요.
+        translation: Take a bus or subway.
+  - id: ko-honranseureoun
+    categories:
+      - feeling
+    front: confused; confusing; perplexing
+    back: 혼란스러운
+    pronunciation: honranseureoun
+    examples:
+      - target: 정보가 너무 많아서 저는 혼란스러운 상태예요.
+        translation: There's too much information, so I'm in a confused state.
+  - id: ko-hwaga
+    categories:
+      - profession
+    front: painter, artist
+    back: 화가
+    pronunciation: hwaga
+    examples:
+      - target: 저의 꿈은 유명한 화가가 되는 거예요.
+        translation: My dream is to become a famous painter.
+  - id: ko-hwanyul
+    categories:
+      - finance
+    front: exchange rate
+    back: 환율
+    pronunciation: hwanyul
+    examples:
+      - target: 오늘의 환율은 얼마인가요?
+        translation: What is today's exchange rate?
+  - id: ko-hwanja
+    categories:
+      - medical
+    front: patient
+    back: 환자
+    pronunciation: hwanja
+    examples:
+      - target: 환자들이 병원에서 치료를 받고 있습니다.
+        translation: Patients are receiving treatment at the hospital.
+  - id: ko-hwalbalhada
+    categories:
+      - personality
+    front: to be active, lively, brisk
+    back: 활발하다
+    pronunciation: hwalbalhada
+    examples:
+      - target: 우리 아이는 에너지가 넘쳐서 항상 활발해요.
+        translation: Our child is full of energy and is always active.
+  - id: ko-hoesaek
+    categories:
+      - colors
+    front: gray
+    back: 회색
+    pronunciation: hoesaek
+  - id: ko-hoeui
+    categories:
+      - business
+    front: meeting, conference
+    back: 회의
+    pronunciation: hoeui
+    examples:
+      - target: 내일 중요한 회의가 있어요.
+        translation: I have an important meeting tomorrow.
+  - id: ko-hoengdanbodo
+    categories:
+      - traffic
+    front: crosswalk, pedestrian crossing
+    back: 횡단보도
+    pronunciation: hoengdanbodo
+    examples:
+      - target: 횡단보도를 건널 때는 초록불에 건너세요.
+        translation: When crossing the crosswalk, cross on a green light.
+  - id: ko-hunlyeonhada
+    categories:
+      - exercise
+    front: to train, to drill, to practice
+    back: 훈련하다
+    pronunciation: hunlyeonhada
+    examples:
+      - target: 우리는 매일 훈련장에서 훈련합니다.
+        translation: We train every day at the training ground.
+  - id: ko-hyumu
+    categories:
+      - work
+    front: day off, holiday, closing
+    back: 휴무
+    pronunciation: hyumu
+    examples:
+      - target: 내일은 백화점 휴무일입니다.
+        translation: Tomorrow is the department store's day off.
+  - id: ko-hyungteo
+    categories:
+      - body
+    front: scar
+    back: 흉터
+    pronunciation: hyungteo
+    examples:
+      - target: 어린 시절 사고로 생긴 흉터가 아직도 남아있어요.
+        translation: The scar from an accident in my childhood still remains.
+  - id: ko-heungseon-daewongun
+    categories:
+      - history
+    front: Heungseon Daewongun (a powerful regent of the Joseon Dynasty, father of King Gojong)
+    back: 흥선대원군
+    pronunciation: Heungseon Daewongun
+    examples:
+      - target: 흥선대원군은 조선 후기 개혁을 추진한 인물입니다.
+        translation: Heungseon Daewongun was a figure who pursued reforms in the late Joseon Dynasty.
+  - id: ko-huinsaek
+    categories:
+      - colors
+    front: white
+    back: 흰색
+    pronunciation: huinsaek
