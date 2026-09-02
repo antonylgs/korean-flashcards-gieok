@@ -1020,6 +1020,8 @@ cards:
     examples:
       - target: 지난 주말에는 백화점에서 꽃 모양 접시를 샀습니다.
         translation: Last weekend, I bought a flower-shaped plate at a department store.
+      - target: 이 식당에는 여러 모양의 멋있는 가구들이 있습니다.
+        translation: This restaurant has stylish furniture in various shapes.
   - id: ko-moeuda
     categories:
       - action
@@ -2412,3 +2414,764 @@ cards:
     front: white
     back: 흰색
     pronunciation: huinsaek
+  - id: ko-chima
+    categories:
+      - appearance
+      - shopping
+    front: skirt
+    back: 치마
+    pronunciation: chima
+    examples:
+      - target: 이 치마는 색도 예쁘고 입기도 편해요.
+        translation: This skirt has a pretty color and is comfortable to wear.
+  - id: ko-yagu
+    categories:
+      - exercise
+    front: baseball
+    back: 야구
+    pronunciation: yagu
+    examples:
+      - target: 주말마다 친구들과 야구를 해요.
+        translation: I play baseball with my friends every weekend.
+  - id: ko-chukje
+    categories:
+      - culture
+      - event
+    front: festival
+    back: 축제
+    pronunciation: chukje
+    examples:
+      - target: 다음 주에 학교에서 축제가 열립니다.
+        translation: A festival will be held at school next week.
+  - id: ko-gongyeon
+    categories:
+      - art
+      - event
+    front: performance, show
+    back: 공연
+    pronunciation: gongyeon
+    examples:
+      - target: 어제 친구와 함께 음악 공연을 봤어요.
+        translation: Yesterday, I watched a musical performance with a friend.
+  - id: ko-gabeop
+    categories:
+      - culture
+      - family
+    front: family rules, family customs
+    back: 가법
+    pronunciation: gabeop
+    notes: A relatively uncommon Sino-Korean word referring to rules or customs observed within a family.
+    examples:
+      - target: 우리 집에는 식사할 때 휴대 전화를 보지 않는 가법이 있어요.
+        translation: In our family, we have a rule not to look at our phones during meals.
+  - id: ko-gugyeonghada
+    categories:
+      - action
+      - shopping
+    front: to look around, browse, sightsee
+    back: 구경하다
+    pronunciation: gugyeonghada
+    examples:
+      - target: 새로 나온 책을 구경할 수도 있고 자기가 읽은 책을 다른 사람에게 싸게 팔 수도 있습니다.
+        translation: You can browse newly released books and also sell books you have read cheaply to other people.
+  - id: ko-jurida
+    categories:
+      - action
+      - change
+    front: to reduce, decrease, cut down
+    back: 줄이다
+    pronunciation: jurida
+    notes: The transitive form; use it when someone reduces something. 줄다 means that something decreases on its own.
+    examples:
+      - target: 건강을 위해 설탕을 줄이려고 해요.
+        translation: I am trying to cut down on sugar for my health.
+  - id: ko-gagu
+    categories:
+      - home
+      - household
+    front: furniture
+    back: 가구
+    pronunciation: gagu
+    notes: A collective noun for furniture; it can also refer to an individual piece of furniture.
+    examples:
+      - target: 이 식당에는 여러 모양의 멋있는 가구들이 있습니다.
+        translation: This restaurant has stylish furniture in various shapes.
+  - id: ko-bunwigi
+    categories:
+      - description
+      - feeling
+    front: atmosphere, mood, ambience
+    back: 분위기
+    pronunciation: bunwigi
+    examples:
+      - target: 분위기도 좋고 음식도 맛있어서 우리는 다음에 또 가기로 했습니다.
+        translation: Because the atmosphere was nice and the food was delicious, we decided to go again next time.
+  - id: ko-naljja
+    categories:
+      - time
+    front: date, day of the month
+    back: 날짜
+    pronunciation: naljja
+    examples:
+      - target: 여행 날짜를 달력에 적어 두었어요.
+        translation: I wrote the travel date on the calendar.
+  - id: ko-chamgabi
+    categories:
+      - event
+      - finance
+    front: participation fee, entry fee
+    back: 참가비
+    pronunciation: chamgabi
+    notes: 참가비가 is 참가비 followed by the subject particle 가.
+    examples:
+      - target: 이 행사의 참가비가 얼마예요?
+        translation: How much is the participation fee for this event?
+  - id: ko-teunteunhada
+    categories:
+      - quality
+    front: to be strong, sturdy, durable
+    back: 튼튼하다
+    pronunciation: teunteunhada
+    examples:
+      - target: 이 가방은 가볍고 튼튼해서 오래 쓸 수 있어요.
+        translation: This bag is light and sturdy, so I can use it for a long time.
+  - id: ko-ai
+    categories:
+      - family
+      - people
+    front: child, kid
+    back: 아이
+    pronunciation: ai
+    notes: Often shortened to 애 in casual speech.
+    examples:
+      - target: 공원에서 아이들이 신나게 놀고 있어요.
+        translation: The children are happily playing in the park.
+  - id: ko-naeda
+    categories:
+      - action
+      - finance
+    front: to submit, hand in, pay, produce
+    back: 내다
+    pronunciation: naeda
+    notes: The meaning depends on the object, as in 신청서를 내다 (submit an application), 돈을 내다 (pay money), and 소리를 내다 (make a sound).
+    examples:
+      - target: 신청서를 내세요. 그러면 한복을 빌릴 수 있어요.
+        translation: Submit the application. Then you can borrow a hanbok.
+      - target: 오늘까지 숙제를 내야 해요.
+        translation: I have to hand in my homework by today.
+      - target: 제가 점심값을 낼게요.
+        translation: I will pay for lunch.
+      - target: 도서관에서는 큰 소리를 내면 안 돼요.
+        translation: You must not make loud noises in the library.
+  - id: ko-boda
+    categories:
+      - action
+    front: to see, watch
+    back: 보다
+    pronunciation: boda
+    examples:
+      - target: 주말에 친구와 영화를 봅니다.
+        translation: I watch a movie with a friend on the weekend.
+  - id: ko-bonaeda
+    categories:
+      - action
+      - communication
+    front: to send; to spend time
+    back: 보내다
+    pronunciation: bonaeda
+    notes: Use 편지를 보내다 for sending a letter and 시간을 보내다 for spending time.
+    examples:
+      - target: 친구에게 편지를 보냈습니다.
+        translation: I sent a letter to my friend.
+  - id: ko-kkaekkeuthage
+    categories:
+      - manner
+    front: cleanly
+    back: 깨끗하게
+    pronunciation: kkaekkeuthage
+    examples:
+      - target: 방을 깨끗하게 청소했습니다.
+        translation: I cleaned the room thoroughly.
+  - id: ko-cheongsohada
+    categories:
+      - action
+      - household
+    front: to clean
+    back: 청소하다
+    pronunciation: cheongsohada
+    notes: 청소하다 focuses on removing dirt and cleaning, while 정리하다 means putting things in order.
+    examples:
+      - target: 주말마다 집을 청소합니다.
+        translation: I clean the house every weekend.
+  - id: ko-neutge
+    categories:
+      - manner
+      - time
+    front: late
+    back: 늦게
+    pronunciation: neutge
+    examples:
+      - target: 길이 막혀서 늦게 도착했습니다.
+        translation: I arrived late because the road was congested.
+  - id: ko-dochakhada
+    categories:
+      - action
+      - travel
+    front: to arrive
+    back: 도착하다
+    pronunciation: dochakhada
+    examples:
+      - target: 기차가 서울역에 도착했습니다.
+        translation: The train arrived at Seoul Station.
+  - id: ko-suyeonghada
+    categories:
+      - exercise
+    front: to swim
+    back: 수영하다
+    pronunciation: suyeonghada
+    notes: 수영하러 means in order to swim and is used before a movement verb.
+    examples:
+      - target: 여름에는 바다에서 수영합니다.
+        translation: I swim in the sea in summer.
+  - id: ko-jeongrihada
+    categories:
+      - action
+      - household
+    front: to organize, tidy up
+    back: 정리하다
+    pronunciation: jeongrihada
+    examples:
+      - target: 주말에 옷장을 정리하려고 합니다.
+        translation: I intend to organize my wardrobe this weekend.
+  - id: ko-yuchiwon
+    categories:
+      - education
+      - place
+    front: kindergarten
+    back: 유치원
+    pronunciation: yuchiwon
+    examples:
+      - target: 제 누나는 유치원 선생님입니다.
+        translation: My older sister is a kindergarten teacher.
+  - id: ko-muryo
+    categories:
+      - finance
+      - shopping
+    front: free of charge
+    back: 무료
+    pronunciation: muryo
+    examples:
+      - target: 이 박물관은 어린이에게 무료입니다.
+        translation: This museum is free for children.
+  - id: ko-gisuksa
+    categories:
+      - education
+      - home
+    front: dormitory
+    back: 기숙사
+    pronunciation: gisuksa
+    examples:
+      - target: 학교 기숙사에서 생활하고 있습니다.
+        translation: I am living in the school dormitory.
+  - id: ko-doraoda
+    categories:
+      - action
+      - travel
+    front: to return, come back
+    back: 돌아오다
+    pronunciation: doraoda
+    examples:
+      - target: 저녁에 기숙사로 돌아왔습니다.
+        translation: I returned to the dormitory in the evening.
+  - id: ko-eolma-jeon
+    categories:
+      - time
+    front: a short time ago, recently
+    back: 얼마 전
+    pronunciation: eolma jeon
+    examples:
+      - target: 얼마 전 이 근처에 박물관이 문을 열었습니다.
+        translation: A museum opened near here recently.
+  - id: ko-naoda
+    categories:
+      - action
+    front: to come out; to be released or published
+    back: 나오다
+    pronunciation: naoda
+    examples:
+      - target: 이 만화책은 1960년에 처음 나왔습니다.
+        translation: This comic book was first published in 1960.
+  - id: ko-yeoreo-gaji
+    categories:
+      - description
+    front: various, several kinds of
+    back: 여러 가지
+    pronunciation: yeoreo gaji
+    examples:
+      - target: 도서관에는 여러 가지 만화책이 있습니다.
+        translation: The library has various kinds of comic books.
+  - id: ko-manhwachaek
+    categories:
+      - art
+      - object
+    front: comic book
+    back: 만화책
+    pronunciation: manhwachaek
+    examples:
+      - target: 어릴 때 이 만화책을 자주 읽었습니다.
+        translation: I often read this comic book when I was young.
+  - id: ko-namgeuk
+    categories:
+      - geography
+    front: Antarctica, the South Pole
+    back: 남극
+    pronunciation: namgeuk
+    examples:
+      - target: 남극에는 펭귄이 삽니다.
+        translation: Penguins live in Antarctica.
+  - id: ko-geumanduda
+    categories:
+      - action
+      - work
+    front: to quit, stop
+    back: 그만두다
+    pronunciation: geumanduda
+    examples:
+      - target: 작년에 회사를 그만두었습니다.
+        translation: I quit the company last year.
+  - id: ko-haeoe-yeohaeng
+    categories:
+      - travel
+    front: overseas travel
+    back: 해외여행
+    pronunciation: haeoe yeohaeng
+    examples:
+      - target: 휴가 때 해외여행을 하고 싶습니다.
+        translation: I want to travel abroad during my vacation.
+  - id: ko-jayuropge
+    categories:
+      - manner
+    front: freely
+    back: 자유롭게
+    pronunciation: jayuropge
+    examples:
+      - target: 여행 계획 없이 자유롭게 다녔습니다.
+        translation: I traveled around freely without a plan.
+  - id: ko-jigwon
+    categories:
+      - occupation
+      - work
+    front: employee, staff member
+    back: 직원
+    pronunciation: jigwon
+    examples:
+      - target: 은행 직원에게 도움을 부탁했습니다.
+        translation: I asked a bank employee for help.
+  - id: ko-joajida
+    categories:
+      - change
+      - state
+    front: to improve, become better
+    back: 좋아지다
+    pronunciation: joajida
+    notes: 좋다 means to be good, 좋아하다 means to like, and 좋아지다 means to become better.
+    examples:
+      - target: 초콜릿을 먹으면 기분이 좋아집니다.
+        translation: When you eat chocolate, your mood improves.
+  - id: ko-mareul-mani-hada
+    categories:
+      - communication
+    front: to speak a lot
+    back: 말을 많이 하다
+    pronunciation: mareul mani hada
+    examples:
+      - target: 말을 많이 할 때는 물을 자주 마십니다.
+        translation: When I speak a lot, I drink water often.
+  - id: ko-balpyoreul-hada
+    categories:
+      - communication
+      - education
+    front: to give a presentation
+    back: 발표를 하다
+    pronunciation: balpyoreul hada
+    examples:
+      - target: 내일 수업에서 발표를 해야 합니다.
+        translation: I have to give a presentation in class tomorrow.
+  - id: ko-jota
+    categories:
+      - adjective
+      - quality
+    front: to be good
+    back: 좋다
+    pronunciation: jota
+    examples:
+      - target: 오늘은 기분이 좋습니다.
+        translation: I feel good today.
+  - id: ko-joahada
+    categories:
+      - emotion
+      - preference
+    front: to like
+    back: 좋아하다
+    pronunciation: joahada
+    examples:
+      - target: 저는 초콜릿을 좋아합니다.
+        translation: I like chocolate.
+  - id: ko-dalda
+    categories:
+      - adjective
+      - food
+    front: to be sweet
+    back: 달다
+    pronunciation: dalda
+    examples:
+      - target: 이 초콜릿은 아주 답니다.
+        translation: This chocolate is very sweet.
+  - id: ko-gibun
+    categories:
+      - feeling
+    front: mood, feeling
+    back: 기분
+    pronunciation: gibun
+    examples:
+      - target: 음악을 들으면 기분이 좋아집니다.
+        translation: Listening to music improves my mood.
+  - id: ko-mogi-mareuda
+    categories:
+      - health
+      - sensation
+    front: to be thirsty
+    back: 목이 마르다
+    pronunciation: mogi mareuda
+    examples:
+      - target: 초콜릿을 먹으면 목이 마릅니다.
+        translation: Eating chocolate makes you thirsty.
+  - id: ko-moksori
+    categories:
+      - anatomy
+      - communication
+    front: voice
+    back: 목소리
+    pronunciation: moksori
+    examples:
+      - target: 목이 마르면 목소리가 잘 안 나옵니다.
+        translation: When I am thirsty, my voice does not come out well.
+  - id: ko-seonmul
+    categories:
+      - object
+    front: gift, present
+    back: 선물
+    pronunciation: seonmul
+    examples:
+      - target: 아버지께 생일 선물을 드렸습니다.
+        translation: I gave my father a birthday present.
+  - id: ko-goyangi-inhyeong
+    categories:
+      - object
+    front: cat doll
+    back: 고양이 인형
+    pronunciation: goyangi inhyeong
+    examples:
+      - target: 아이는 고양이 인형을 안고 잡니다.
+        translation: The child sleeps hugging a cat doll.
+  - id: ko-gippeuda
+    categories:
+      - adjective
+      - emotion
+    front: to be glad, pleased
+    back: 기쁘다
+    pronunciation: gippeuda
+    examples:
+      - target: 선물을 받아서 정말 기뻤습니다.
+        translation: I was very pleased to receive the gift.
+  - id: ko-jamsi-hu
+    categories:
+      - time
+    front: a moment later
+    back: 잠시 후
+    pronunciation: jamsi hu
+    examples:
+      - target: 잠시 후 아버지가 웃으셨습니다.
+        translation: A moment later, my father smiled.
+  - id: ko-kkok-anda
+    categories:
+      - action
+      - relationship
+    front: to hug tightly
+    back: 꼭 안다
+    pronunciation: kkok anda
+    notes: Here 안다 means to hug, not 알다, which means to know.
+    examples:
+      - target: 아버지가 저를 꼭 안아 주셨습니다.
+        translation: My father gave me a tight hug.
+  - id: ko-sigani-heureuda
+    categories:
+      - change
+      - time
+    front: time passes
+    back: 시간이 흐르다
+    pronunciation: sigani heureuda
+    examples:
+      - target: 시간이 흘러 저도 어른이 되었습니다.
+        translation: As time passed, I also became an adult.
+  - id: ko-ttareul-nata
+    categories:
+      - action
+      - family
+    front: to give birth to a daughter
+    back: 딸을 낳다
+    pronunciation: ttareul nata
+    examples:
+      - target: 언니는 작년에 딸을 낳았습니다.
+        translation: My older sister gave birth to a daughter last year.
+  - id: ko-pojanghada
+    categories:
+      - action
+      - shopping
+    front: to wrap, package
+    back: 포장하다
+    pronunciation: pojanghada
+    examples:
+      - target: 선물을 예쁘게 포장했습니다.
+        translation: I wrapped the gift beautifully.
+  - id: ko-oraetdongan
+    categories:
+      - time
+    front: for a long time
+    back: 오랫동안
+    pronunciation: oraetdongan
+    examples:
+      - target: 아버지는 그 인형을 오랫동안 가지고 계셨습니다.
+        translation: My father kept that doll for a long time.
+  - id: ko-gajigo-gyesida
+    categories:
+      - action
+      - politeness
+    front: to have or keep, honorific
+    back: 가지고 계시다
+    pronunciation: gajigo gyesida
+    notes: The honorific counterpart of 가지고 있다 when the subject is respected.
+    examples:
+      - target: 할아버지는 오래된 사진을 가지고 계십니다.
+        translation: My grandfather has an old photograph.
+  - id: ko-saero
+    categories:
+      - description
+    front: newly, afresh
+    back: 새로
+    pronunciation: saero
+    examples:
+      - target: 새로 나온 만화책을 샀습니다.
+        translation: I bought a newly released comic book.
+  - id: ko-deurida
+    categories:
+      - action
+      - politeness
+    front: to give, humble
+    back: 드리다
+    pronunciation: deurida
+    notes: The humble form of 주다, used when giving something to someone you respect.
+    examples:
+      - target: 제가 고양이 인형을 아버지께 선물로 드렸습니다.
+        translation: I gave my father a cat doll as a present.
+  - id: ko-n-kke
+    categories:
+      - grammar
+      - politeness
+    front: to N, honorific particle
+    back: N께
+    pronunciation: N-kke
+    notes: The honorific counterpart of 에게 or 한테 for the recipient of an action.
+    examples:
+      - target: 선생님께 질문을 했습니다.
+        translation: I asked the teacher a question.
+  - id: ko-v-gi-ttaemunida
+    categories:
+      - grammar
+    front: it is because V
+    back: V-기 때문이다
+    pronunciation: V-gi ttaemunida
+    notes: Gives the reason for a result, statement, or recommendation. With a noun, use N 때문이다.
+    examples:
+      - target: 목소리가 잘 안 나오기 때문입니다.
+        translation: It is because the voice does not come out well.
+  - id: ko-v-a-eodo-doeda
+    categories:
+      - grammar
+    front: may V, it is okay to V
+    back: V-아/어도 되다
+    pronunciation: V-a-eodo doeda
+    notes: Expresses permission.
+    examples:
+      - target: 여기에서 사진을 찍어도 됩니다.
+        translation: You may take pictures here.
+  - id: ko-v-a-eoya-hada
+    categories:
+      - grammar
+    front: must V, have to V
+    back: V-아/어야 하다
+    pronunciation: V-a-eoya hada
+    notes: Expresses obligation or necessity.
+    examples:
+      - target: 발표 전에 물을 마셔야 합니다.
+        translation: You must drink water before the presentation.
+  - id: ko-v-giro-hada
+    categories:
+      - grammar
+    front: to decide to V
+    back: V-기로 하다
+    pronunciation: V-giro hada
+    notes: Used when a person or group makes a decision.
+    examples:
+      - target: 공연 전에는 초콜릿을 먹지 않기로 했습니다.
+        translation: I decided not to eat chocolate before the performance.
+  - id: ko-v-eu-myeon
+    categories:
+      - grammar
+    front: if or when V
+    back: V-(으)면
+    pronunciation: V-(eu)myeon
+    notes: Marks a condition or a predictable result. Use -으면 after most consonants and -면 after a vowel or ㄹ.
+    examples:
+      - target: 초콜릿을 먹으면 목이 마릅니다.
+        translation: If you eat chocolate, you become thirsty.
+  - id: ko-v-eul-ttae
+    categories:
+      - grammar
+    front: when doing V
+    back: V-(으)ㄹ 때
+    pronunciation: V-(eu)l ttae
+    notes: Marks the time or situation in which another action occurs.
+    examples:
+      - target: 목이 마를 때 물을 마셔요.
+        translation: I drink water when I am thirsty.
+  - id: ko-v-ge-doeda
+    categories:
+      - grammar
+    front: to come to V, end up V
+    back: V-게 되다
+    pronunciation: V-ge doeda
+    notes: Shows a change or result that is often not a deliberate decision.
+    examples:
+      - target: 물을 안 마시면 목이 마르게 됩니다.
+        translation: If you do not drink water, you become thirsty.
+  - id: ko-v-eul-ttaena
+    categories:
+      - grammar
+    front: when V or in situations such as V
+    back: V-(으)ㄹ 때나
+    pronunciation: V-(eu)l ttaena
+    notes: The particle -나 links example situations with the sense of when A or when B.
+    examples:
+      - target: 말을 많이 할 때나 발표를 해야 할 때는 물을 자주 마시는 것이 좋습니다.
+        translation: When you speak a lot or have to give a presentation, it is good to drink water often.
+  - id: ko-v-neun-geosi-jota
+    categories:
+      - grammar
+    front: it is good or advisable to V; it is better not to V
+    back: V-는 것이 좋다 / V-지 않는 것이 좋다
+    pronunciation: V-neun geosi jota / V-ji anneun geosi jota
+    notes: Use the positive form for advice to do something and the negative form for advice not to do it.
+    examples:
+      - target: 공연 전에는 초콜릿을 먹지 않는 것이 좋습니다.
+        translation: It is better not to eat chocolate before a performance.
+  - id: ko-past-verb-modifier
+    categories:
+      - grammar
+    front: noun modified by a completed action
+    back: V-(으)ㄴ + N
+    pronunciation: V-(eu)n + N
+    notes: A past or completed verb placed before a noun describes that noun. Expand the phrase to check the hidden subject and object.
+    examples:
+      - target: 선물을 본 아버지는 아무 말도 하지 않았습니다.
+        translation: My father, who saw the gift, did not say anything.
+  - id: ko-present-verb-modifier
+    categories:
+      - grammar
+    front: noun modified by a present action
+    back: V-는 + N
+    pronunciation: V-neun + N
+    notes: A present-action verb placed before a noun describes that noun.
+    examples:
+      - target: 초콜릿을 먹는 사람이 물을 마십니다.
+        translation: The person who is eating chocolate drinks water.
+  - id: ko-future-verb-modifier
+    categories:
+      - grammar
+    front: noun modified by a future or intended action
+    back: V-(으)ㄹ + N
+    pronunciation: V-(eu)l + N
+    notes: A future or intended verb placed before a noun describes that noun.
+    examples:
+      - target: 이것은 내일 읽을 만화책입니다.
+        translation: This is the comic book that I will read tomorrow.
+  - id: ko-v-eu-reo-gada-oda
+    categories:
+      - grammar
+    front: to go or come in order to V
+    back: V-(으)러 가다/오다
+    pronunciation: V-(eu)reo gada/oda
+    notes: This purpose form must be followed by a movement verb such as 가다 or 오다.
+    examples:
+      - target: 바다에서 수영하러 부산에 갑니다.
+        translation: I am going to Busan to swim in the sea.
+  - id: ko-v-eu-ryeomyeon
+    categories:
+      - grammar
+    front: if you intend or want to V
+    back: V-(으)려면
+    pronunciation: V-(eu)ryeomyeon
+    notes: Combines intention with a condition and is often followed by what is needed to achieve the goal.
+    examples:
+      - target: 기숙사로 돌아오려면 이 버스를 타세요.
+        translation: If you want to return to the dormitory, take this bus.
+  - id: ko-v-gi-jeone
+    categories:
+      - grammar
+    front: before doing V
+    back: V-기 전에
+    pronunciation: V-gi jeone
+    examples:
+      - target: 기숙사로 돌아오기 전에 밥을 먹었습니다.
+        translation: I ate before returning to the dormitory.
+  - id: ko-v-a-eoseo
+    categories:
+      - grammar
+    front: because V; V and then
+    back: V-아/어서
+    pronunciation: V-a-eoseo
+    notes: Can give a cause or connect two actions in sequence, depending on context.
+    examples:
+      - target: 길이 막혀서 늦게 도착했습니다.
+        translation: I arrived late because the road was congested.
+  - id: ko-v-go-sipda
+    categories:
+      - grammar
+    front: to want to V
+    back: V-고 싶다
+    pronunciation: V-go sipda
+    examples:
+      - target: 해외여행을 자유롭게 즐기고 싶습니다.
+        translation: I want to enjoy traveling abroad freely.
+  - id: ko-negation-an-ji-anta
+    categories:
+      - grammar
+    front: to not V
+    back: 안 V / V-지 않다
+    pronunciation: an V / V-ji anta
+    notes: 안 V is the short negative form, while V-지 않다 is the longer negative form.
+    examples:
+      - target: 가수들은 공연 전에 초콜릿을 안 먹습니다.
+        translation: Singers do not eat chocolate before a performance.
+      - target: 계획을 세우지 않고 여행합니다.
+        translation: I travel without making a plan.
+  - id: ko-n-buteo-n-kkaji
+    categories:
+      - grammar
+    front: from N to N
+    back: N부터 N까지
+    pronunciation: N-buteo N-kkaji
+    notes: 부터 marks the starting point and 까지 marks the endpoint.
+    examples:
+      - target: 이 만화책은 1960년부터 지금까지 인기가 많습니다.
+        translation: This comic book has been popular from 1960 until now.
